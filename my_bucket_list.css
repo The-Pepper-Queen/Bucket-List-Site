@@ -28,6 +28,7 @@ a:hover {
     margin: 10px;
     text-align: center;
     font-family:magneto;
+    -webkit-box-shadow: 10px 10px 58px 6px rgba(0,0,0,0.75);
 }
 
 .cover {
